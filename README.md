@@ -1,2 +1,2 @@
 # myfirstnotebook
-I am publsihing my first jupyter notebook for git onboarding purpose.
+I am publishing my first jupyter notebook for git onboarding purpose.
